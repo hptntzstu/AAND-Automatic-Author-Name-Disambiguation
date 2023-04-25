@@ -1,0 +1,4 @@
+{
+    "main_data_dir": "your dataset root",
+    "internal_data_dir": "don't worry about it unless you work at AI2"
+}
